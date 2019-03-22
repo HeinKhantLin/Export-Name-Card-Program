@@ -1,2 +1,4 @@
-{"japan_name1":"","name1":"","position1":"","employee_id1":"SGWT0013","japan_name2":"","name2":"","position2":"","employee_id2":"SGWT0013"}
-{"japan_name1":"","name1":"","position1":"","employee_id1":"SGWT0013","japan_name2":"","name2":"","position2":"","employee_id2":"SGWT0013"}
+,,,SGWT0013
+,,,SGWT0013
+,,,SGWT0013
+,,,SGWT0013
