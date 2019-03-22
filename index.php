@@ -1,3 +1,12 @@
+<?php
+$filename = "Staff_List.txt";
+$data = file($filename);
+$data_ary = array();
+foreach($data as $key => $d){
+    $each = explode(',',$d);
+    $data_ary[$key] = $each;
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
