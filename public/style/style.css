@@ -6,7 +6,7 @@
 }
 
 .info1{
-	padding-top:176px;
+	padding-top:160px;
 	padding-left:248px;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .info2{
-	padding-top:239px;
+	padding-top:223px;
 	padding-left:251px;
 }
 
@@ -46,4 +46,14 @@
 .pre_photo2_div{
 	padding-top: 208px;
     padding-left: 79px;
+}
+
+#img_jpn_name1,#img_name1,#img_position1,#img_jpn_name2,#img_name2,#img_position2{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#img_e_id_1,#img_e_id_2{
+	font-size: 13px;
+	font-weight: bold;
 }
